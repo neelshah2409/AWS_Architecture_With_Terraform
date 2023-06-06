@@ -25,6 +25,6 @@ Before you begin, ensure that you have the following:
 - Terraform installed on your local machine.
 
 Contributions
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+- Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-- Happy codinng ,Let's learn and grow together 💜
+- Happy coding ,Let's learn and grow together 💜
