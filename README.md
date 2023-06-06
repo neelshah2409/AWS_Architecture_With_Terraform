@@ -1,4 +1,4 @@
-# Terraform_Architecture_With-_AWS
+# AWS_Architecture_With_Terraform
 Here we would try to understand the architecture of AWS Services using Terraform
 This repository demonstrates the implementation of scalable and resilient architectures on AWS using Terraform. The infrastructure is defined as code, allowing for easy deployment, management, and version control.
 
